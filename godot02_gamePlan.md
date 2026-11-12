@@ -6,15 +6,15 @@
 
 ## Team
 
-**Partner 1:**
+**Partner 1:Delvin Gandhi
 
-**Partner 2:**
+**Partner 2: Grant Tanski
 
-**Art lead:**
+**Art lead: Grant
 
-**Sound lead:**
+**Sound lead:* Delvin
 
-**Team repo name:**
+**Team repo name: teamGame_Gandhi1_Tanski2
 
 ---
 
@@ -22,41 +22,41 @@
 
 **Game name:**
 
-**Platformer or RPG?**
+**Platformer or RPG?
 
-**Answer:**
+**Answer:PLatformer
 
 
 **What is your game about?** Who is the player, and where are they?
 
-**Answer:**
+**Answer:** Our player is at the top and attempting to drop down without getting hit/getting down as fast as possible
 
 
 **What does the player do?** (Run and jump? Explore? Collect things? Avoid things?)
 
-**Answer:**
+**Answer:** collect items to help aid player, avoid things, time trial, dodging enemies n a fixed amount of time
 
 
 **What are the controls?**
 
-**Answer:**
+**Answer:** up, down, left, right ,space bar, ground pound,
 
 
 **How do you win?**
 
-**Answer:**
+**Answer:** getting down and surviving without time running out
 
 
 **How do you lose?**
 
-**Answer:**
+**Answer:** running out of time, hit by enemies
 
 
 **What will things look like?** Mark at least 3 as **Piskel**. The rest can be **Found**.
 
 | Thing | What it will look like | Piskel or Found? |
 |---|---|---|
-| Player | | |
+| Player |  | |
 | Enemy | | |
 | Pickup | | |
 | Tiles / ground | | |
