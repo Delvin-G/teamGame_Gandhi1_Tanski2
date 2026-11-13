@@ -6,7 +6,9 @@
 
 ## Team
 
-**Partner 1:Delvin Gandhi
+**Partner 1: Delvin Gandhi
+
+aaaaaaaaaaaaaaaaa
 
 **Partner 2: Grant Tanski
 
