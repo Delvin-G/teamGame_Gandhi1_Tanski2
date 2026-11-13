@@ -8,8 +8,6 @@
 
 **Partner 1: Delvin Gandhi
 
-aaaaaaaaaaaaaaaaa
-
 **Partner 2: Grant Tanski
 
 **Art lead: Grant
@@ -26,17 +24,17 @@ aaaaaaaaaaaaaaaaa
 
 **Platformer or RPG?
 
-**Answer:PLatformer
+**Answer: Platformer
 
 
 **What is your game about?** Who is the player, and where are they?
 
-**Answer:** Our player is at the top and attempting to drop down without getting hit/getting down as fast as possible
+**Answer:** The player is a tresaure hunter that has rumors about riches being left at teh bottom of a mysterious hole in the gorund. Thus, he has to make his way down the hole dodging enemies as fast as possible to reach the bottom before the whole thing collapses in on itself.
 
 
 **What does the player do?** (Run and jump? Explore? Collect things? Avoid things?)
 
-**Answer:** collect items to help aid player, avoid things, time trial, dodging enemies n a fixed amount of time
+**Answer:** collect items to help aid player, avoid things, time trial, dodging enemies in a fixed amount of time
 
 
 **What are the controls?**
@@ -51,28 +49,31 @@ aaaaaaaaaaaaaaaaa
 
 **How do you lose?**
 
-**Answer:** running out of time, hit by enemies
+**Answer:** running out of time, hit by enemies enough times to drain all of your health
 
 
 **What will things look like?** Mark at least 3 as **Piskel**. The rest can be **Found**.
 
 | Thing | What it will look like | Piskel or Found? |
 |---|---|---|
-| Player |  | |
-| Enemy | | |
-| Pickup | | |
-| Tiles / ground | | |
-| Other: | | |
+| Player | Goofy treasure hunter design (already created) | piskel |
+| Enemy | Fire ant, Hornet, Snake | Found |
+| Pickup | Heart (Healing) Clock (Increase time) | Piskel |
+| Tiles / ground | Dirt, Stone, Types of rock | Piskel |
+| Other: | Ui elements (Timer, health, restart, pause/exit), Money at the bottom | Piskel |
 
 **Where will your sound come from?** (Brackeys sounds, found online, or made ourselves)
 
+=======
 **Answer:**
-
+Found online
+>>>>>>> 17bcc0d03a82045e265d4d25c53f271238494b90
 
 **Draw or describe your first level or map.** What's at the start, the middle, and the end?
 
 **Answer:**
 
+Since it is the first level, it will act as a sort of tutorial. Each level is a race directly to the bottom. Each level is separated into three stages. Each stage has its own time limit. The first will allow the player get used to movement and platforming, the second will teach the player how ground enemies and items work, and the third will challenge the player with a flying enemy and test the player on what they have learned thus far.
 
 ---
 
