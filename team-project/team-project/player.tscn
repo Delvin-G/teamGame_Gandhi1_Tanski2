@@ -1,0 +1,55 @@
+[gd_scene format=3 uid="uid://81jilnd1arjy"]
+
+[ext_resource type="Texture2D" uid="uid://dkjagc03po117" path="res://icon.svg" id="1_4flbx"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_onrkg"]
+atlas = ExtResource("1_4flbx")
+region = Rect2(0, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_i3pqv"]
+atlas = ExtResource("1_4flbx")
+region = Rect2(32, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_hqtel"]
+atlas = ExtResource("1_4flbx")
+region = Rect2(64, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_sweqy"]
+atlas = ExtResource("1_4flbx")
+region = Rect2(96, 0, 32, 32)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_vc3h7"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_onrkg")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_i3pqv")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_hqtel")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_sweqy")
+}],
+"loop": 1,
+"name": &"idle",
+"speed": 10.0
+}]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_vc3h7"]
+size = Vector2(4, 13)
+
+[node name="player" type="CharacterBody2D" unique_id=373971831]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=2492663]
+position = Vector2(-2.3841858e-07, -7.5)
+scale = Vector2(0.1875, 0.46875003)
+sprite_frames = SubResource("SpriteFrames_vc3h7")
+animation = &"idle"
+autoplay = "idle"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=131509223]
+position = Vector2(0, -7.5)
+shape = SubResource("RectangleShape2D_vc3h7")
