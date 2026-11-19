@@ -64,10 +64,8 @@
 
 **Where will your sound come from?** (Brackeys sounds, found online, or made ourselves)
 
-=======
 **Answer:**
 Found online
-
 
 **Draw or describe your first level or map.** What's at the start, the middle, and the end?
 
@@ -133,12 +131,15 @@ Add an entry **at the end of every lab day**, then push. Two or three sentences 
 
 **What did we get done?**
 
+Filled out basic game plan, started work on brainstorming level design/ideas
 
 **What are we doing next time?**
 
+Attempting to create Godot file and add player character with camera/movement
 
 **Is anything stuck or broken?**
 
+Since Godot was not entered much, no major changes have been made to warrant a bug
 
 ### Day 2
 
